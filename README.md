@@ -17,7 +17,7 @@ O objetivo deste projeto é criar uma aplicação que permita aos stakeholders d
 ## Estrutura do Repositório
 
 - **[README.md](README.md):** Este arquivo com informações sobre o projeto.
-- **[docs/histórias-de-usuário.md](docs/histórias-de-usuário.md):** Documento contendo as histórias de usuário, critérios de aceitação e tarefas técnicas.
-- **[docs/backlog.md](docs/backlog.md):** Backlog detalhado das histórias de usuário organizadas por sprints.
+- **[histórias-de-usuário.md](histórias-de-usuário.md):** Documento contendo as histórias de usuário, critérios de aceitação e tarefas técnicas.
+- **[backlog.md](backlog.md):** Backlog detalhado das histórias de usuário organizadas por sprints.
 
 
